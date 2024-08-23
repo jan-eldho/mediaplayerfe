@@ -1,0 +1,10 @@
+body{
+    background-color: black !important;
+}
+.text-style{
+    color: white;
+}
+
+.link:hover {
+    color: rgb(238, 238, 74);
+}
